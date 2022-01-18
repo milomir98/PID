@@ -1,0 +1,12 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [Motion_Driver_v2.PcbDoc]
+   Generated File[Motion_Driver_v2.TXT]
+   Generated File[Motion_Driver_v2.LDP]
+   Generated File[Motion_Driver_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:24:53 PM On 1/21/2019

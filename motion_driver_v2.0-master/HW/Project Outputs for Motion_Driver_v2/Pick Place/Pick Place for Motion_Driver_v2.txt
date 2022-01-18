@@ -1,0 +1,145 @@
+Altium Designer Pick and Place Locations
+D:\Memristor\Electronics\Memristor_AltiumProjects\Motion_Driver_v2.0\HW\Project Outputs for Motion_Driver_v2\Pick Place\Pick Place for Motion_Driver_v2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21.01.19
+Time:       00:33
+Revision:   1bca344003ba6dfff7abcbc3aefb2f99308c3ed2
+Variant:    No variations
+Units used: mm
+
+Center-X(mm) Center-Y(mm) Comment                     Description                        Designator             Footprint                   Layer       Rotation 
+69.8003      102.0077     PIC32MK1024MCF064           "IC MCU 32BIT 1MB FLASH 64TQFP"    U6                     TQFP-64-500um               TopLayer    90       
+39.0486      101.1174     ADUM1201BRZ-RL7             "DGTL ISO 2.5KV GEN PURP 8SOIC"    U9                     SOIC-8                      TopLayer    180      
+51.0074      89.2160      #NAME?                      "CONN MOD JACK 6P4C R/A UNSHLD"    P8                     RJ11-6N-B                   TopLayer    90       
+59.9440      89.0618      *                           ""                                 J2                     HM1x2                       TopLayer    270      
+36.6878      97.2664      100n                        "CAP CER 100n 10V X5R 10% 0603"    C24                    CER_0805                    TopLayer    270      
+41.2598      97.3680      100n                        "CAP CER 100n 10V X5R 10% 0603"    C23                    CER_0805                    TopLayer    90       
+45.8470      126.1110     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C11_H-Bridge1          CER_0805                    BottomLayer 270      
+95.6818      126.3650     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C11_H_Bridge_2         CER_0805                    BottomLayer 270      
+58.9280      126.1110     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C12_H-Bridge1          CER_0805                    BottomLayer 90       
+108.7628     126.3650     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C12_H_Bridge_2         CER_0805                    BottomLayer 90       
+42.5450      126.1110     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C13_H-Bridge1          CER_0805                    BottomLayer 270      
+92.3798      126.3650     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C13_H_Bridge_2         CER_0805                    BottomLayer 270      
+55.6260      126.1110     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C14_H-Bridge1          CER_0805                    BottomLayer 270      
+105.4608     126.3650     220nF                       "CAP CER 220n 10V X5R 10% 0805"    C14_H_Bridge_2         CER_0805                    BottomLayer 270      
+46.9900      117.9830     1nF                         "CAP CER 1n 50V X7R 10% 0805"      C15_H-Bridge1          CER_0805                    BottomLayer 360      
+96.8248      118.2370     1nF                         "CAP CER 1n 50V X7R 10% 0805"      C15_H_Bridge_2         CER_0805                    BottomLayer 360      
+60.0710      117.9830     1nF                         "CAP CER 1n 50V X7R 10% 0805"      C16_H-Bridge1          CER_0805                    BottomLayer 360      
+109.9058     118.2370     1nF                         "CAP CER 1n 50V X7R 10% 0805"      C16_H_Bridge_2         CER_0805                    BottomLayer 360      
+45.2120      117.9830     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C17_H-Bridge1          CER_0805                    BottomLayer 360      
+95.0468      118.2370     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C17_H_Bridge_2         CER_0805                    BottomLayer 360      
+58.2930      117.9830     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C18_H-Bridge1          CER_0805                    BottomLayer 360      
+108.1278     118.2370     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C18_H_Bridge_2         CER_0805                    BottomLayer 360      
+68.6670      128.6510     470uF                       "CAP ALU 470u 25V 20%"             C19_H-Bridge1          CAP10X20_RADIAL             TopLayer    360      
+118.5018     128.9050     470uF                       "CAP ALU 470u 25V 20%"             C19_H_Bridge_2         CAP10X20_RADIAL             TopLayer    360      
+68.6670      139.1920     470uF                       "CAP ALU 470u 25V 20%"             C20_H-Bridge1          CAP10X20_RADIAL             TopLayer    360      
+118.5018     139.4460     470uF                       "CAP ALU 470u 25V 20%"             C20_H_Bridge_2         CAP10X20_RADIAL             TopLayer    360      
+50.6730      122.4280     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C21_H-Bridge1          CER_0805                    TopLayer    270      
+100.5078     122.6820     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C21_H_Bridge_2         CER_0805                    TopLayer    270      
+64.0080      122.6820     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C22_H-Bridge1          CER_0805                    TopLayer    270      
+114.8080     122.9360     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C22_H_Bridge_2         CER_0805                    TopLayer    270      
+49.7335      118.0337     "LED RED"                   "LED RED 0805"                     H_BRG1_H-Bridge1       LED_RED_0805                TopLayer    90       
+99.7712      118.1862     "LED RED"                   "LED RED 0805"                     H_BRG1_H_Bridge_2      LED_RED_0805                TopLayer    90       
+71.0692      77.7240      UART                        ""                                 J1                     HM1X4                       TopLayer    180      
+28.0924      112.3950     PICKIT                      BLUE_5PIN_CONECTOR                 P3                     TE_CONNECTIVITY_5PIN_MALE   TopLayer    270      
+50.9016      143.2560     *                           "CONNECTOR FOR MOTOR OUTPUT"       P5_H-Bridge1           MOTOR_CON                   TopLayer    270      
+100.7364     143.5100     *                           "CONNECTOR FOR MOTOR OUTPUT"       P5_H_Bridge_2          MOTOR_CON                   TopLayer    270      
+31.8770      129.5240     "TE CONNECTIVITY_4PIN_MALE" BLUE_4PIN_CONECTOR                 P3_Encoder_Motor_1     TE_CONNECTIVITY_4PIN_MALE   TopLayer    360      
+81.6610      128.7780     "TE CONNECTIVITY_4PIN_MALE" BLUE_4PIN_CONECTOR                 P3_Encoder_Motor_2     TE_CONNECTIVITY_4PIN_MALE   TopLayer    360      
+31.8770      140.0970     "TE CONNECTIVITY_4PIN_MALE" BLUE_4PIN_CONECTOR                 P3_Encoder_Odometry_1  TE_CONNECTIVITY_4PIN_MALE   TopLayer    360      
+81.6610      139.5730     "TE CONNECTIVITY_4PIN_MALE" BLUE_4PIN_CONECTOR                 P3_Encoder_Odometry_2  TE_CONNECTIVITY_4PIN_MALE   TopLayer    360      
+49.7331      118.0337     1k                          "RES SMD 1 kOhm 1/8W 0805"         R18_H-Bridge1          RESC2013X38N-0805-NOOVERLAY BottomLayer 180      
+99.7708      118.1862     1k                          "RES SMD 1 kOhm 1/8W 0805"         R18_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY BottomLayer 180      
+43.1800      117.9830     10k                         "RES SMD 10 kOhm 1/8W 0805"        R19_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+93.0148      118.2370     10k                         "RES SMD 10 kOhm 1/8W 0805"        R19_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+56.2610      117.9830     10k                         "RES SMD 10 kOhm 1/8W 0805"        R20_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+106.0958     118.2370     10k                         "RES SMD 10 kOhm 1/8W 0805"        R20_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+41.4020      117.9830     10k                         "RES SMD 10 kOhm 1/8W 0805"        R21_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+91.2368      118.2370     10k                         "RES SMD 10 kOhm 1/8W 0805"        R21_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+54.4830      117.9830     10k                         "RES SMD 10 kOhm 1/8W 0805"        R22_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+104.3178     118.2370     10k                         "RES SMD 10 kOhm 1/8W 0805"        R22_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+46.9900      117.9830     1k                          "RES SMD 1 kOhm 1/8W 0805"         R23_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+60.0710      117.9830     1k                          "RES SMD 1 kOhm 1/8W 0805"         R24_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+109.9058     118.2370     1k                          "RES SMD 1 kOhm 1/8W 0805"         R24_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+45.2120      117.9830     470R                        "RES SMD 470 Ohm 1/8W 0805"        R25_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+95.0468      118.2370     470R                        "RES SMD 470 Ohm 1/8W 0805"        R25_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+58.2930      117.9830     470R                        "RES SMD 470 Ohm 1/8W 0805"        R26_H-Bridge1          RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+108.1278     118.2370     470R                        "RES SMD 470 Ohm 1/8W 0805"        R26_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+30.6070      126.3490     2k                          "RES SMD 2 kOhm 1/8W 0805"         R13_Encoder_Motor_1    RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+80.4926      124.0282     2k                          "RES SMD 2 kOhm 1/8W 0805"         R13_Encoder_Motor_2    RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+30.6070      136.9220     2k                          "RES SMD 2 kOhm 1/8W 0805"         R13_Encoder_Odometry_1 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+80.3910      136.3980     2k                          "RES SMD 2 kOhm 1/8W 0805"         R13_Encoder_Odometry_2 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+33.1470      126.3490     2k                          "RES SMD 2 kOhm 1/8W 0805"         R14_Encoder_Motor_1    RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+83.0326      124.0282     2k                          "RES SMD 2 kOhm 1/8W 0805"         R14_Encoder_Motor_2    RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+33.1470      136.9220     2k                          "RES SMD 2 kOhm 1/8W 0805"         R14_Encoder_Odometry_1 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+82.9310      136.3980     2k                          "RES SMD 2 kOhm 1/8W 0805"         R14_Encoder_Odometry_2 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+30.6070      122.7930     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R15_Encoder_Motor_1    RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+80.4926      120.4722     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R15_Encoder_Motor_2    RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+30.6070      133.3660     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R15_Encoder_Odometry_1 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+80.3910      132.8420     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R15_Encoder_Odometry_2 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+33.1470      122.7930     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R16_Encoder_Motor_1    RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+83.0326      120.4722     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R16_Encoder_Motor_2    RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+33.1470      133.3660     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R16_Encoder_Odometry_1 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+82.9310      132.8420     3k9                         "RES SMD 3.9 kOhm 1/8W 0805"       R16_Encoder_Odometry_2 RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+44.1960      127.2570     BTN8962TAAUMA1              "IC MOTOR DRIVER PAR TO263-7"      U4_H-Bridge1           TO263-7                     TopLayer    360      
+94.0308      127.5110     BTN8962TAAUMA1              "IC MOTOR DRIVER PAR TO263-7"      U4_H_Bridge_2          TO263-7                     TopLayer    360      
+57.2770      127.2570     BTN8962TAAUMA1              "IC MOTOR DRIVER PAR TO263-7"      U5_H-Bridge1           TO263-7                     TopLayer    360      
+107.1118     127.5110     BTN8962TAAUMA1              "IC MOTOR DRIVER PAR TO263-7"      U5_H_Bridge_2          TO263-7                     TopLayer    360      
+78.1384      78.2066      "LED RED"                   "LED RED 0805"                     PWR1                   LED_RED_0805                TopLayer    270      
+78.4178      78.3590      1k                          "RES SMD 1 kOhm 1/8W 0805"         R13                    RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+85.4964      82.0674      LM2937-5                    "IC REG LINEAR 5V 400MA SOT223-4"  U3                     SOT223                      BottomLayer 90       
+39.0740      101.1362     SN65HVD230DR                "IC EMC CAN TRANSCEIVER 8-SOIC"    U2                     SOIC-8                      BottomLayer 180      
+47.4240      103.1084     "LED GREEN"                 "LED GREEN CLEAR 0805 SMD"         TXCAN1                 LED_GREEN_0805              TopLayer    360      
+47.5616      98.7448      "LED GREEN"                 "LED GREEN CLEAR 0805 SMD"         RXCAN1                 LED_GREEN_0805              TopLayer    360      
+33.1826      103.1338     10k                         "RES SMD 10 kOhm 1/8W 0805"        R12                    RESC2013X38N-0805-NOOVERLAY BottomLayer 270      
+59.8424      93.8624      120R                        "RES SMD 120 Ohm 1/8W 0805"        R11                    RESC2013X38N-0805-NOOVERLAY TopLayer    0        
+47.4240      103.0322     1k                          "RES SMD 1 kOhm 1/8W 0805"         R10                    RESC2013X38N-0805-NOOVERLAY BottomLayer 90       
+47.3839      98.7447      1k                          "RES SMD 1 kOhm 1/8W 0805"         R9                     RESC2013X38N-0805-NOOVERLAY BottomLayer 90       
+36.5548      89.1922      RJ-11                       ""                                 P2                     RJ11-6N-B                   TopLayer    90       
+84.4564      87.2744      10uF                        "CAP TANT 10u"                     C10                    TANT_1210                   BottomLayer 270      
+81.4578      77.1398      100n                        "CAP CER 100n 10V X5R 10% 0603"    C9                     CER_0603                    BottomLayer 270      
+44.1300      101.2288     100n                        "CAP CER 100n 10V X5R 10% 0603"    C8                     CER_0805                    BottomLayer 180      
+116.8781     90.3478      10uH                        "FIXED IND 10uH 5.3A"              L1                     INDUCTOR_SS1260-103MLD      TopLayer    180      
+103.2778     89.7032      TPS54340                    "IC REG BUCK ADJ 3.5A 8SOPWRPAD"   U1                     HSOP-8                      TopLayer    270      
+106.9608     92.5662      100n                        "CAP CER 100n 10V X5R 10% 0603"    C1                     CER_0603                    TopLayer    90       
+94.2608      106.1392     100nF                       "CAP CER 100n 50V X7R 10% 0805"    C2                     CER_0805                    BottomLayer 360      
+105.6892     95.0692      2.2uF                       "CAP CER 2.2u"                     C3                     CER_1210                    TopLayer    270      
+105.6892     98.1172      2.2uF                       "CAP CER 2.2u"                     C4                     CER_1210                    TopLayer    270      
+104.1668     84.9302      68p                         "CAP CER 68p 0603"                 C5                     CER_0603                    TopLayer    270      
+107.2926     81.1782      100uF                       "CAP CER 100u X5R 6.3V 10% 1210"   C6                     CER_1210                    TopLayer    360      
+104.1668     83.1522      15n                         "CAP CER 15n 0603"                 C7                     CER_0603                    TopLayer    270      
+107.6198     88.2322      B360B                       "DIODE SCHOTTKY 60V 3A DO214AC"    D1                     DO214AC                     TopLayer    90       
+104.1668     103.2342     SK34                        "DIODE SCHOTTKY 40V 3A DO214AC"    D2                     DO214AC                     TopLayer    90       
+94.6178      106.0122     12V                         "DIODE ZENER"                      D3                     DO214AC                     TopLayer    270      
+113.8188     103.2436     2EDGRC-5.08-02P-14-00A(H)   "TERM BLOCK HDR 2POS 90DEG 5.08MM" P1                     PWR_Con                     TopLayer    360      
+100.7612     106.1526     IRF9540NSPBF                P-MOS                              Q1                     D2PAK-2                     BottomLayer 90       
+102.0078     95.3602      330k                        "RES SMD 330 kOhm 1/8W 0805"       R1                     RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+98.5788      83.4222      51k                         "RES SMD 51 kOhm 1/8W 0805"        R2                     RESC2013X38N-0805-NOOVERLAY TopLayer    270      
+98.0708      91.4072      56k                         "RES SMD 56 kOhm 1/8W 0805"        R3                     RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+99.8728      91.4072      160k                        "RES SMD 160 kOhm 1/8W 0805"       R4                     RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+102.1348     84.0412      15k                         "RES SMD 15 kOhm 1/8W 0805"        R5                     RESC2013X38N-0805-NOOVERLAY TopLayer    180      
+99.5948      85.8352      9.1k                        "RES SMD 9.1 kOhm 1/8W 0805"       R6                     RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+94.6418      101.0592     2.7k                        "RES SMD 2.7 kOhm 1/8W 0805"       R7                     RESC2013X38N-0805-NOOVERLAY BottomLayer 360      
+98.0708      87.8672      620R                        "RES SMD 620 Ohm 1/8W 0805"        R8                     RESC2013X38N-0805-NOOVERLAY TopLayer    360      
+82.4992      99.3902      100n                        "CAP CER 100n 10V X5R 10% 0603"    C16                    CER_0603                    BottomLayer 0        
+88.3158      94.2848      TASTER                      ""                                 SW1                    TASTER_SMD                  TopLayer    270      
+54.7370      101.5746     8Hz                         "CRYSTAL 8.0000MHZ 18PF SMD"       Y1                     ABM10                       TopLayer    270      
+54.8640      97.7646      20pF                        "CAP CER 20p 0805"                 C18                    CER_0603                    TopLayer    90       
+54.4830      105.3846     20pF                        "CAP CER 20p 0805"                 C17                    CER_0603                    TopLayer    270      
+75.0062      86.8680      10k                         "RES SMD 10 kOhm 1/8W 0805"        R17                    RESC2013X38N-0805-NOOVERLAY BottomLayer 180      
+72.4662      86.8426      10k                         "RES SMD 10 kOhm 1/8W 0805"        R28                    RESC2013X38N-0805-NOOVERLAY BottomLayer 180      
+69.9262      86.8426      10k                         "RES SMD 10 kOhm 1/8W 0805"        R29                    RESC2013X38N-0805-NOOVERLAY BottomLayer 180      
+67.3608      86.8426      10k                         "RES SMD 10 kOhm 1/8W 0805"        R30                    RESC2013X38N-0805-NOOVERLAY BottomLayer 180      
+72.8726      105.3084     100n                        "CAP CER 100n 10V X5R 10% 0603"    C25                    CER_0603                    BottomLayer 360      
+70.0786      99.0600      100n                        "CAP CER 100n 10V X5R 10% 0603"    C26                    CER_0603                    BottomLayer 180      
+73.1012      102.2350     100n                        "CAP CER 100n 10V X5R 10% 0603"    C27                    CER_0603                    BottomLayer 270      
+69.9008      104.9528     100n                        "CAP CER 100n 10V X5R 10% 0603"    C28                    CER_0603                    BottomLayer 360      
+71.1708      84.1756      EXTINT                      ""                                 J3                     HM1X4                       TopLayer    180      
+79.9084      102.8192     10k                         "RES SMD 10 kOhm 1/8W 0805"        R16                    RESC2013X38N-0805-NOOVERLAY TopLayer    270      
+79.0194      100.6348     1k                          "RES SMD 1 kOhm 1/8W 0805"         R27                    RESC2013X38N-0805-NOOVERLAY TopLayer    270      
+67.6656      104.3940     100n                        "CAP CER 100n 10V X5R 10% 0603"    C29                    CER_0603                    BottomLayer 90       
+67.6402      102.7684     100n                        "CAP CER 100n 10V X5R 10% 0603"    C30                    CER_0603                    BottomLayer 90       
+96.8248      118.2370     1k                          "RES SMD 1 kOhm 1/8W 0805"         R23_H_Bridge_2         RESC2013X38N-0805-NOOVERLAY TopLayer    180      

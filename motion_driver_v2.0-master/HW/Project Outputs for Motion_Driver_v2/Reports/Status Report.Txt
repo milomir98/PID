@@ -1,0 +1,10 @@
+Output: Footprint Comparison Report
+Type  : FootprintComparison
+From  : PCB Document [Motion_Driver_v2.PcbDoc]
+   Generated File[Motion_Driver_v2.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 0:33:30 On 21.1.2019

@@ -1,0 +1,68 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\nrasevic\Downloads\Memristor\proj\motion_driver_v2.0\HW\Project Files\PCB\Motion_Driver_v2.PcbDoc
+Date     : 1/21/2019
+Time     : 8:22:54 PM
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad U1-9(4066.055mil,3531.622mil) on Multi-Layer on Net GND
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad U1-9(4066.055mil,3531.622mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-(1082.677mil,5807.087mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-(1083.012mil,3068.91mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-(4813mil,3074mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-(4822.835mil,5807.087mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (127.953mil > 100mil) Pad P2-M1(1239.165mil,3336.504mil) on Multi-Layer Actual Hole Size = 127.953mil
+   Violation between Hole Size Constraint: (127.953mil > 100mil) Pad P2-M2(1639.165mil,3336.504mil) on Multi-Layer Actual Hole Size = 127.953mil
+   Violation between Hole Size Constraint: (127.953mil > 100mil) Pad P8-M1(1808.165mil,3337.441mil) on Multi-Layer Actual Hole Size = 127.953mil
+   Violation between Hole Size Constraint: (127.953mil > 100mil) Pad P8-M2(2208.165mil,3337.441mil) on Multi-Layer Actual Hole Size = 127.953mil
+Rule Violations :8
+
+Processing Rule : Room Encoder_Odometry_2 (Bounding Region = (2990mil, 5160mil, 3430mil, 5608.11mil) (InComponentClass('Encoder_Odometry_2'))
+Rule Violations :0
+
+Processing Rule : Room Encoder_Odometry_1 (Bounding Region = (1030mil, 5180.63mil, 1470mil, 5628.74mil) (InComponentClass('Encoder_Odometry_1'))
+Rule Violations :0
+
+Processing Rule : Room Encoder_Motor_1 (Bounding Region = (1030mil, 4764.37mil, 1470mil, 5212.481mil) (InComponentClass('Encoder_Motor_1'))
+Rule Violations :0
+
+Processing Rule : Room CANbus (Bounding Region = (1157mil, 3004mil, 2418mil, 4112.74mil) (InComponentClass('CANbus'))
+Rule Violations :0
+
+Processing Rule : Room Oscillator (Bounding Region = (2022mil, 3779mil, 2270mil, 4226mil) (InComponentClass('Oscillator'))
+Rule Violations :0
+
+Processing Rule : Room 3v3_PowerSupply (Bounding Region = (3136mil, 2997mil, 3575mil, 3507mil) (InComponentClass('3v3_PowerSupply'))
+Rule Violations :0
+
+Processing Rule : Room Reset (Bounding Region = (2968.603mil, 3557mil, 3591mil, 4220mil) (InComponentClass('Reset'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:00

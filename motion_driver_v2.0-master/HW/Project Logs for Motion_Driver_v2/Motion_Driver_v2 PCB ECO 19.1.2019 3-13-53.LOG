@@ -1,0 +1,1021 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=CAN-3V3 Pin=C8-2
+Removed Pin From Net: NetName=NetC11_H-Bridge1_1 Pin=C11_H-Bridge1-1
+Removed Pin From Net: NetName=VCC-12V Pin=C11_H-Bridge1-2
+Removed Pin From Net: NetName=NetC11_H_Bridge_2_1 Pin=C11_H_Bridge_2-1
+Removed Pin From Net: NetName=VCC-12V Pin=C11_H_Bridge_2-2
+Removed Pin From Net: NetName=VCC-12V Pin=C12_H-Bridge1-1
+Removed Pin From Net: NetName=NetC12_H-Bridge1_2 Pin=C12_H-Bridge1-2
+Removed Pin From Net: NetName=VCC-12V Pin=C12_H_Bridge_2-1
+Removed Pin From Net: NetName=NetC12_H_Bridge_2_2 Pin=C12_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C13_H-Bridge1-1
+Removed Pin From Net: NetName=NetC11_H-Bridge1_1 Pin=C13_H-Bridge1-2
+Removed Pin From Net: NetName=GND Pin=C13_H_Bridge_2-1
+Removed Pin From Net: NetName=NetC11_H_Bridge_2_1 Pin=C13_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C14_H-Bridge1-1
+Removed Pin From Net: NetName=GND Pin=C14_H_Bridge_2-1
+Removed Pin From Net: NetName=ISA1 Pin=C15_H-Bridge1-2
+Removed Pin From Net: NetName=ISA2 Pin=C15_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=ISB1 Pin=C16_H-Bridge1-2
+Removed Pin From Net: NetName=ISB2 Pin=C16_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=OSC1 Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=OSC2 Pin=C18-2
+Removed Pin From Net: NetName=VCC-12V Pin=C19_H-Bridge1-1
+Removed Pin From Net: NetName=GND Pin=C19_H-Bridge1-2
+Removed Pin From Net: NetName=VCC-12V Pin=C19_H_Bridge_2-1
+Removed Pin From Net: NetName=GND Pin=C19_H_Bridge_2-2
+Removed Pin From Net: NetName=VCC-12V Pin=C20_H-Bridge1-1
+Removed Pin From Net: NetName=GND Pin=C20_H-Bridge1-2
+Removed Pin From Net: NetName=VCC-12V Pin=C20_H_Bridge_2-1
+Removed Pin From Net: NetName=GND Pin=C20_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C21_H-Bridge1-1
+Removed Pin From Net: NetName=VCC-12V Pin=C21_H-Bridge1-2
+Removed Pin From Net: NetName=GND Pin=C21_H_Bridge_2-1
+Removed Pin From Net: NetName=VCC-12V Pin=C21_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C22_H-Bridge1-1
+Removed Pin From Net: NetName=VCC-12V Pin=C22_H-Bridge1-2
+Removed Pin From Net: NetName=GND Pin=C22_H_Bridge_2-1
+Removed Pin From Net: NetName=VCC-12V Pin=C22_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=VCC-3V3 Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=CAN-3V3 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=VCC-3V3 Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=VCC-3V3 Pin=C26-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=C27-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=J1-1
+Removed Pin From Net: NetName=UART_RX Pin=J1-2
+Removed Pin From Net: NetName=UART_TX Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=VCC-3V3 Pin=P3-2
+Removed Pin From Net: NetName=VCC-5V Pin=P3_Encoder_Motor_1-1
+Removed Pin From Net: NetName=GND Pin=P3_Encoder_Motor_1-4
+Removed Pin From Net: NetName=VCC-5V Pin=P3_Encoder_Motor_2-1
+Removed Pin From Net: NetName=GND Pin=P3_Encoder_Motor_2-4
+Removed Pin From Net: NetName=VCC-5V Pin=P3_Encoder_Odometry_1-1
+Removed Pin From Net: NetName=GND Pin=P3_Encoder_Odometry_1-4
+Removed Pin From Net: NetName=VCC-5V Pin=P3_Encoder_Odometry_2-1
+Removed Pin From Net: NetName=GND Pin=P3_Encoder_Odometry_2-4
+Removed Pin From Net: NetName=CAN-3V3 Pin=P8-2
+Removed Pin From Net: NetName=NetP2_3 Pin=P8-3
+Removed Pin From Net: NetName=GND Pin=P8-5
+Removed Pin From Net: NetName=VCC-3V3 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=EXTINT2 Pin=R17-2
+Removed Pin From Net: NetName=NetH_BRG1_H-Bridge1_2 Pin=R18_H-Bridge1-1
+Removed Pin From Net: NetName=NetH_BRG1_H_Bridge_2_2 Pin=R18_H_Bridge_2-1
+Removed Pin From Net: NetName=INH1 Pin=R20_H-Bridge1-2
+Removed Pin From Net: NetName=INH2 Pin=R20_H_Bridge_2-2
+Removed Pin From Net: NetName=INA1 Pin=R21_H-Bridge1-2
+Removed Pin From Net: NetName=INA2 Pin=R21_H_Bridge_2-2
+Removed Pin From Net: NetName=INB1 Pin=R22_H-Bridge1-2
+Removed Pin From Net: NetName=INB2 Pin=R22_H_Bridge_2-2
+Removed Pin From Net: NetName=ISA1 Pin=R23_H-Bridge1-2
+Removed Pin From Net: NetName=ISA2 Pin=R23_H_Bridge_2-2
+Removed Pin From Net: NetName=ISB1 Pin=R24_H-Bridge1-2
+Removed Pin From Net: NetName=ISB2 Pin=R24_H_Bridge_2-2
+Removed Pin From Net: NetName=GND Pin=R26_H-Bridge1-1
+Removed Pin From Net: NetName=GND Pin=R26_H_Bridge_2-1
+Removed Pin From Net: NetName=M\C\L\R\ Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=EXTINT1 Pin=R28-2
+Removed Pin From Net: NetName=EXTINT3 Pin=R29-2
+Removed Pin From Net: NetName=EXTINT4 Pin=R30-2
+Removed Pin From Net: NetName=NetP2_3 Pin=U2-7
+Removed Pin From Net: NetName=NetR12_2 Pin=U2-8
+Removed Pin From Net: NetName=NetR21_H-Bridge1_1 Pin=U4_H-Bridge1-2
+Removed Pin From Net: NetName=NetR19_H-Bridge1_1 Pin=U4_H-Bridge1-3
+Removed Pin From Net: NetName=NetR21_H_Bridge_2_1 Pin=U4_H_Bridge_2-2
+Removed Pin From Net: NetName=NetR19_H_Bridge_2_1 Pin=U4_H_Bridge_2-3
+Removed Pin From Net: NetName=NetR20_H-Bridge1_1 Pin=U5_H-Bridge1-3
+Removed Pin From Net: NetName=NetR20_H_Bridge_2_1 Pin=U5_H_Bridge_2-3
+Removed Pin From Net: NetName=INH1 Pin=U6-1
+Removed Pin From Net: NetName=INA1 Pin=U6-2
+Removed Pin From Net: NetName=INB1 Pin=U6-3
+Removed Pin From Net: NetName=M\C\L\R\ Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=VCC-3V3 Pin=U6-10
+Removed Pin From Net: NetName=EMB2 Pin=U6-11
+Removed Pin From Net: NetName=EMA2 Pin=U6-12
+Removed Pin From Net: NetName=EOA2 Pin=U6-13
+Removed Pin From Net: NetName=EOB2 Pin=U6-14
+Removed Pin From Net: NetName=ISA1 Pin=U6-17
+Removed Pin From Net: NetName=ISB1 Pin=U6-18
+Removed Pin From Net: NetName=VCC-3V3 Pin=U6-19
+Removed Pin From Net: NetName=GND Pin=U6-20
+Removed Pin From Net: NetName=ISA2 Pin=U6-21
+Removed Pin From Net: NetName=ISB2 Pin=U6-22
+Removed Pin From Net: NetName=GND Pin=U6-25
+Removed Pin From Net: NetName=VCC-3V3 Pin=U6-26
+Removed Pin From Net: NetName=CAN_RX Pin=U6-30
+Removed Pin From Net: NetName=CAN_TX Pin=U6-31
+Removed Pin From Net: NetName=VCC-3V3 Pin=U6-35
+Removed Pin From Net: NetName=VCC-3V3 Pin=U6-38
+Removed Pin From Net: NetName=OSC1 Pin=U6-39
+Removed Pin From Net: NetName=OSC2 Pin=U6-40
+Removed Pin From Net: NetName=GND Pin=U6-41
+Removed Pin From Net: NetName=EMA1 Pin=U6-45
+Removed Pin From Net: NetName=EOA1 Pin=U6-46
+Removed Pin From Net: NetName=EMB1 Pin=U6-47
+Removed Pin From Net: NetName=EOB1 Pin=U6-48
+Removed Pin From Net: NetName=UART_TX Pin=U6-50
+Removed Pin From Net: NetName=UART_RX Pin=U6-51
+Removed Pin From Net: NetName=EXTINT4 Pin=U6-53
+Removed Pin From Net: NetName=EXTINT3 Pin=U6-54
+Removed Pin From Net: NetName=EXTINT1 Pin=U6-55
+Removed Pin From Net: NetName=GND Pin=U6-56
+Removed Pin From Net: NetName=VCC-3V3 Pin=U6-57
+Removed Pin From Net: NetName=EXTINT2 Pin=U6-58
+Removed Pin From Net: NetName=INA2 Pin=U6-62
+Removed Pin From Net: NetName=INB2 Pin=U6-63
+Removed Pin From Net: NetName=INH2 Pin=U6-64
+Removed Pin From Net: NetName=VCC-3V3 Pin=U9-1
+Removed Pin From Net: NetName=CAN_RX Pin=U9-2
+Removed Pin From Net: NetName=CAN_TX Pin=U9-3
+Removed Pin From Net: NetName=GND Pin=U9-4
+Removed Pin From Net: NetName=GND Pin=U9-5
+Removed Pin From Net: NetName=NetTXCAN1_1 Pin=U9-6
+Removed Pin From Net: NetName=NetRXCAN1_1 Pin=U9-7
+Removed Pin From Net: NetName=CAN-3V3 Pin=U9-8
+Removed Member From Class: ClassName=CANbus Member=C8
+Removed Member From Class: ClassName=H-Bridge1 Member=C11_H-Bridge1
+Removed Member From Class: ClassName=H_Bridge_2 Member=C11_H_Bridge_2
+Removed Member From Class: ClassName=H-Bridge1 Member=C12_H-Bridge1
+Removed Member From Class: ClassName=H_Bridge_2 Member=C12_H_Bridge_2
+Removed Member From Class: ClassName=Reset Member=C16
+Removed Member From Class: ClassName=Oscillator Member=C17
+Removed Member From Class: ClassName=Oscillator Member=C18
+Removed Member From Class: ClassName=CANbus Member=C23
+Removed Member From Class: ClassName=CANbus Member=C24
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=C25
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=C26
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=C27
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=J1
+Removed Member From Class: ClassName=CANbus Member=J2
+Removed Member From Class: ClassName=Encoder_Motor_1 Member=P3_Encoder_Motor_1
+Removed Member From Class: ClassName=Encoder_Motor_2 Member=P3_Encoder_Motor_2
+Removed Member From Class: ClassName=Encoder_Odometry_1 Member=P3_Encoder_Odometry_1
+Removed Member From Class: ClassName=Encoder_Odometry_2 Member=P3_Encoder_Odometry_2
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=P3
+Removed Member From Class: ClassName=CANbus Member=P8
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=PWR1
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=R13
+Removed Member From Class: ClassName=Reset Member=R16
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=R17
+Removed Member From Class: ClassName=H-Bridge1 Member=R26_H-Bridge1
+Removed Member From Class: ClassName=H_Bridge_2 Member=R26_H_Bridge_2
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=R28
+Removed Member From Class: ClassName=Motion_Driver_v2 Member=U6
+Removed Member From Class: ClassName=CANbus Member=U9
+Change Component Comment : Designator=J2 Old Comment=* New Comment=
+Change Component Comment : Designator=P5_H-Bridge1 Old Comment=* New Comment=
+Change Component Comment : Designator=P5_H_Bridge_2 Old Comment=* New Comment=
+Change component parameters: Designator = "C1"; Footprint = "CER_0603"; UniqueID = "\OKRWAYML\SETELNIH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CER_0805"; UniqueID = "\OKRWAYML\JYVUGQPL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CER_0603"; UniqueID = "\OKRWAYML\QVUOQEDB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "68p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CER_1210"; UniqueID = "\OKRWAYML\YLEQXTWW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CER_0603"; UniqueID = "\OKRWAYML\XMUICDAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "15n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "CER_0603"; UniqueID = "\DJKPYSDT\JPFVMRMY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\TISBSLWK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\TISBSLWK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\KPAFJWQL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\KPAFJWQL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\BRHPSVTR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\BRHPSVTR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\HVXYHSSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\HVXYHSSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\BNLWSRQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\BNLWSRQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\YENAPPDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\YENAPPDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19_H-Bridge1"; Footprint = "CAP10X20_RADIAL"; UniqueID = "\VPIRYENO\MTRTMRSH\GURYHRVI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19_H_Bridge_2"; Footprint = "CAP10X20_RADIAL"; UniqueID = "\VPIRYENO\VVMDTPID\GURYHRVI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20_H-Bridge1"; Footprint = "CAP10X20_RADIAL"; UniqueID = "\VPIRYENO\MTRTMRSH\ECVHOXTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20_H_Bridge_2"; Footprint = "CAP10X20_RADIAL"; UniqueID = "\VPIRYENO\VVMDTPID\ECVHOXTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\WJNWPKQV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\WJNWPKQV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22_H-Bridge1"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\GNIUXNTR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22_H_Bridge_2"; Footprint = "CER_0805"; UniqueID = "\VPIRYENO\VVMDTPID\GNIUXNTR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CER_0603"; UniqueID = "\BNBUCVEW\MOSCLXAK\MENVBKOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "CER_0603"; UniqueID = "\BNBUCVEW\MLSFIDKP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29"; Footprint = "CER_0603"; UniqueID = "\BNBUCVEW\GVKYXQMW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "CER_0603"; UniqueID = "\BNBUCVEW\FBFQHBKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "HM1X4"; UniqueID = "\INWLODOC\PIRBWXIK\MWKISQAP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "RJ11-6N-B"; UniqueID = "\INWLODOC\PIRBWXIK\BCYDSFSU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RJ-11"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5_H-Bridge1"; Footprint = "MOTOR_CON"; UniqueID = "\VPIRYENO\MTRTMRSH\CXBVCTSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5_H_Bridge_2"; Footprint = "MOTOR_CON"; UniqueID = "\VPIRYENO\VVMDTPID\CXBVCTSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4_H-Bridge1"; Footprint = "TO263-7"; UniqueID = "\VPIRYENO\MTRTMRSH\QRIWRNIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BTN8962TAAUMA1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4_H_Bridge_2"; Footprint = "TO263-7"; UniqueID = "\VPIRYENO\VVMDTPID\QRIWRNIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BTN8962TAAUMA1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5_H-Bridge1"; Footprint = "TO263-7"; UniqueID = "\VPIRYENO\MTRTMRSH\OVMQWQAO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BTN8962TAAUMA1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5_H_Bridge_2"; Footprint = "TO263-7"; UniqueID = "\VPIRYENO\VVMDTPID\OVMQWQAO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BTN8962TAAUMA1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\INWLODOC\PIRBWXIK\PTCBDBVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "120R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\INWLODOC\PIRBWXIK\CYSOBFMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\ROUWPKFK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\ROUWPKFK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\EYIGXNUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\EYIGXNUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\YKDBMAGG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\YKDBMAGG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\CIGMIBUM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\CIGMIBUM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\BNBUCVEW\YXRLCMHW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\BNBUCVEW\HCQTULBQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CER_1210"; UniqueID = "\OKRWAYML\ROQLKRKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CER_1210"; UniqueID = "\OKRWAYML\NCOCDYMT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "TANT_1210"; UniqueID = "\DJKPYSDT\JVYPIUHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "HSOP-8"; UniqueID = "\OKRWAYML\CJQLNJJO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS54340"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "SOT223"; UniqueID = "\DJKPYSDT\HGKUQRYB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm2937.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LM2937-5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "TE CONNECTIVITY_5PIN_MALE"; UniqueID = "\INWLODOC\PIRBWXIK\BYEWPKOU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0955012641"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RJ-11"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\XJKQCICB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00003303"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "330k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\QJQRQRWQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00005102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "51k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\SXYVBEGH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00004701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\PHSHKIOT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00001603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "160k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\JOIUJIIO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00001502"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "15k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\MSUMMLLN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "9.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\CBGJNUEF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00004701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\OKRWAYML\EROMPFLF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00006200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "620R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\INWLODOC\PIRBWXIK\VAPPCMNP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\INWLODOC\PIRBWXIK\NHVMOMSG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\AOSLLMRH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_Encoder_Motor_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\NJDSSWUJ\FEHGUAJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_Encoder_Motor_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\ADAEYRGE\FEHGUAJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_Encoder_Odometry_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\RJDBOHMH\FEHGUAJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_Encoder_Odometry_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\SXQLCDJF\FEHGUAJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14_Encoder_Motor_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\NJDSSWUJ\OJQFTEHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14_Encoder_Motor_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\ADAEYRGE\OJQFTEHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14_Encoder_Odometry_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\RJDBOHMH\OJQFTEHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14_Encoder_Odometry_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\SXQLCDJF\OJQFTEHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15_Encoder_Motor_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\NJDSSWUJ\VEVMFRNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15_Encoder_Motor_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\ADAEYRGE\VEVMFRNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15_Encoder_Odometry_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\RJDBOHMH\VEVMFRNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15_Encoder_Odometry_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\SXQLCDJF\VEVMFRNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16_Encoder_Motor_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\NJDSSWUJ\VFYKVEAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16_Encoder_Motor_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\ADAEYRGE\VFYKVEAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16_Encoder_Odometry_1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\RJDBOHMH\VFYKVEAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16_Encoder_Odometry_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\SXQLCDJF\VFYKVEAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3k9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\NGHLPJEG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\NGHLPJEG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\FCKLMVNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\FCKLMVNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\NXNLLRGD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00006200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\NXNLLRGD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00006200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25_H-Bridge1"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\MTRTMRSH\YNWWJHQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00006200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25_H_Bridge_2"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\VPIRYENO\VVMDTPID\YNWWJHQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00006200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\BNBUCVEW\MOSCLXAK\CQCIHFLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "PWR_Con"; UniqueID = "\OKRWAYML\RHBDGKMR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "2EDGRC-5.08-02P-14-00A(H)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suplier"; Value = "TME"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suplier Product Link"; Value = "https://www.tme.eu/en/details/2edgrc5.08-2p14/pluggable-terminal-blocks/degson-electronics/2edgrc-508-02p-14-00ah/"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "D2PAK-2"; UniqueID = "\OKRWAYML\YKXVHDVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "INTERNATIONAL RECTIFIER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "IRF9540NSPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code"; Value = "IRF9540NS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-263 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "DIN 62.54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Comet.rs"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "SOIC-8"; UniqueID = "\INWLODOC\PIRBWXIK\OTNNIBEE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "00000001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comet Product Page"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1200_1201.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Comunication"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ADUM1201BRZ-RL7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H_BRG1_H-Bridge1"; Footprint = "LED_RED_0805"; UniqueID = "\VPIRYENO\MTRTMRSH\MXOPJPYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "2911010024321"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "3341"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BL-HUB35A-AV-TRB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Forward"; Value = "2.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H_BRG1_H_Bridge_2"; Footprint = "LED_RED_0805"; UniqueID = "\VPIRYENO\VVMDTPID\MXOPJPYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "2911010024321"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "3341"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BL-HUB35A-AV-TRB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Forward"; Value = "2.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PWR1"; Footprint = "LED_RED_0805"; UniqueID = "\FHMSWDFS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "2911010024321"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "3341"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BL-HUB35A-AV-TRB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Forward"; Value = "2.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "INDUCTOR_SS1260-103MLD"; UniqueID = "\OKRWAYML\EPLMXNMD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "2911010049126"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Inductors, Coils, Chokes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "5.3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/597/xal7030-270749.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "62.7mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "5593"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XAL7030-103MEB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "8x8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Inductor, Transf, Filter, Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1"; Footprint = "ABM10"; UniqueID = "\BNBUCVEW\ADKRWTAK\BMHURFFE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Crystals and Oscillators"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.abracon.com/Resonators/ABMM2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Equivalent Series Resistance"; Value = "72 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "CRYSTAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "8Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Stability"; Value = "±30ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "4360"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ABMM2-8.000MHZ-E2-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "4-SMD, No Lead (DFN, LCC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Crystals, Oscillators"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size Dimension"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RXCAN1"; Footprint = "LED_GREEN_0805"; UniqueID = "\INWLODOC\PIRBWXIK\ALAOCPKS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "2911010024338"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012SGC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "3342"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "APT2012SGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Forward"; Value = "2.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "568nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TXCAN1"; Footprint = "LED_GREEN_0805"; UniqueID = "\INWLODOC\PIRBWXIK\AMGNLCGG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "2911010024338"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012SGC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "3342"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "APT2012SGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Forward"; Value = "2.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "568nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "DO214AC"; UniqueID = "\OKRWAYML\SSCUDPDR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B360B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  DC Reverse"; Value = "60V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "DO214AC"; UniqueID = "\OKRWAYML\SGXOBMJQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "DO214AC"; UniqueID = "\OKRWAYML\AVQSSTWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B360B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Refferent Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  DC Reverse"; Value = "60V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Encoder_Motor_1(TE CONNECTIVITY_4PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Encoder_Motor_2(TE CONNECTIVITY_4PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Encoder_Odometry_1(TE CONNECTIVITY_4PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Encoder_Odometry_2(TE CONNECTIVITY_4PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P6(TE CONNECTIVITY_5PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=R17_H-Bridge1(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R17_H_Bridge_2(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comet Product Page"; Value = "http://store.comet.rs/Catalogue/Product/9057/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/sn65hvd232.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Comunication"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN65HVD230DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Added Component: Designator=U7(TQFP-64-500um)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PIC32MK1024MCF064"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=OSC1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=OSC2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C10-2
+Added Pin To Net: NetName=NetC11_H-Bridge1_1 Pin=C13_H-Bridge1-1
+Added Pin To Net: NetName=VCC-12V Pin=C13_H-Bridge1-2
+Added Pin To Net: NetName=NetC11_H_Bridge_2_1 Pin=C13_H_Bridge_2-1
+Added Pin To Net: NetName=VCC-12V Pin=C13_H_Bridge_2-2
+Added Pin To Net: NetName=VCC-12V Pin=C14_H-Bridge1-1
+Added Pin To Net: NetName=VCC-12V Pin=C14_H_Bridge_2-1
+Added Pin To Net: NetName=NetC11_H-Bridge1_1 Pin=C15_H-Bridge1-2
+Added Pin To Net: NetName=NetC11_H_Bridge_2_1 Pin=C15_H_Bridge_2-2
+Added Pin To Net: NetName=NetC12_H-Bridge1_2 Pin=C16_H-Bridge1-2
+Added Pin To Net: NetName=NetC12_H_Bridge_2_2 Pin=C16_H_Bridge_2-2
+Added Pin To Net: NetName=ISA1 Pin=C17_H-Bridge1-2
+Added Pin To Net: NetName=ISA2 Pin=C17_H_Bridge_2-2
+Added Pin To Net: NetName=ISB1 Pin=C18_H-Bridge1-2
+Added Pin To Net: NetName=ISB2 Pin=C18_H_Bridge_2-2
+Added Pin To Net: NetName=GND Pin=C19_H-Bridge1-1
+Added Pin To Net: NetName=GND Pin=C19_H_Bridge_2-1
+Added Pin To Net: NetName=GND Pin=C20_H-Bridge1-1
+Added Pin To Net: NetName=GND Pin=C20_H_Bridge_2-1
+Added Pin To Net: NetName=VCC-12V Pin=C21_H-Bridge1-1
+Added Pin To Net: NetName=GND Pin=C21_H-Bridge1-2
+Added Pin To Net: NetName=VCC-12V Pin=C21_H_Bridge_2-1
+Added Pin To Net: NetName=GND Pin=C21_H_Bridge_2-2
+Added Pin To Net: NetName=VCC-12V Pin=C22_H-Bridge1-1
+Added Pin To Net: NetName=GND Pin=C22_H-Bridge1-2
+Added Pin To Net: NetName=VCC-12V Pin=C22_H_Bridge_2-1
+Added Pin To Net: NetName=GND Pin=C22_H_Bridge_2-2
+Added Pin To Net: NetName=VCC-3V3 Pin=J2-1
+Added Pin To Net: NetName=UART_RX Pin=J2-2
+Added Pin To Net: NetName=CAN-3V3 Pin=P3-2
+Added Pin To Net: NetName=NetP2_3 Pin=P3-3
+Added Pin To Net: NetName=VCC-5V Pin=P4_Encoder_Motor_1-1
+Added Pin To Net: NetName=GND Pin=P4_Encoder_Motor_1-4
+Added Pin To Net: NetName=VCC-5V Pin=P4_Encoder_Motor_2-1
+Added Pin To Net: NetName=GND Pin=P4_Encoder_Motor_2-4
+Added Pin To Net: NetName=VCC-5V Pin=P4_Encoder_Odometry_1-1
+Added Pin To Net: NetName=GND Pin=P4_Encoder_Odometry_1-4
+Added Pin To Net: NetName=VCC-5V Pin=P4_Encoder_Odometry_2-1
+Added Pin To Net: NetName=GND Pin=P4_Encoder_Odometry_2-4
+Added Pin To Net: NetName=VCC-3V3 Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=NetH_BRG1_H-Bridge1_2 Pin=R17_H-Bridge1-1
+Added Pin To Net: NetName=INH1 Pin=R17_H-Bridge1-2
+Added Pin To Net: NetName=NetH_BRG1_H_Bridge_2_2 Pin=R17_H_Bridge_2-1
+Added Pin To Net: NetName=INH2 Pin=R17_H_Bridge_2-2
+Added Pin To Net: NetName=INA1 Pin=R20_H-Bridge1-2
+Added Pin To Net: NetName=INA2 Pin=R20_H_Bridge_2-2
+Added Pin To Net: NetName=INB1 Pin=R21_H-Bridge1-2
+Added Pin To Net: NetName=INB2 Pin=R21_H_Bridge_2-2
+Added Pin To Net: NetName=GND Pin=R22_H-Bridge1-1
+Added Pin To Net: NetName=ISA1 Pin=R22_H-Bridge1-2
+Added Pin To Net: NetName=GND Pin=R22_H_Bridge_2-1
+Added Pin To Net: NetName=ISA2 Pin=R22_H_Bridge_2-2
+Added Pin To Net: NetName=ISB1 Pin=R23_H-Bridge1-2
+Added Pin To Net: NetName=ISB2 Pin=R23_H_Bridge_2-2
+Added Pin To Net: NetName=VCC-3V3 Pin=R26-2
+Added Pin To Net: NetName=EXTINT4 Pin=R29-2
+Added Pin To Net: NetName=EXTINT3 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=EXTINT1 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=EXTINT2 Pin=R32-2
+Added Pin To Net: NetName=VCC-3V3 Pin=U2-1
+Added Pin To Net: NetName=CAN_RX Pin=U2-2
+Added Pin To Net: NetName=CAN_TX Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NetTXCAN1_1 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=CAN-3V3 Pin=U3-3
+Added Pin To Net: NetName=NetRXCAN1_1 Pin=U3-4
+Added Pin To Net: NetName=NetP2_3 Pin=U3-7
+Added Pin To Net: NetName=NetR12_2 Pin=U3-8
+Added Pin To Net: NetName=NetR20_H-Bridge1_1 Pin=U4_H-Bridge1-2
+Added Pin To Net: NetName=NetR20_H_Bridge_2_1 Pin=U4_H_Bridge_2-2
+Added Pin To Net: NetName=NetR21_H-Bridge1_1 Pin=U5_H-Bridge1-2
+Added Pin To Net: NetName=NetR19_H-Bridge1_1 Pin=U5_H-Bridge1-3
+Added Pin To Net: NetName=NetR21_H_Bridge_2_1 Pin=U5_H_Bridge_2-2
+Added Pin To Net: NetName=NetR19_H_Bridge_2_1 Pin=U5_H_Bridge_2-3
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=VCC-3V3 Pin=U7-10
+Added Pin To Net: NetName=VCC-3V3 Pin=U7-19
+Added Pin To Net: NetName=GND Pin=U7-20
+Added Pin To Net: NetName=GND Pin=U7-25
+Added Pin To Net: NetName=VCC-3V3 Pin=U7-26
+Added Pin To Net: NetName=VCC-3V3 Pin=U7-35
+Added Pin To Net: NetName=VCC-3V3 Pin=U7-38
+Added Pin To Net: NetName=GND Pin=U7-41
+Added Pin To Net: NetName=GND Pin=U7-56
+Added Pin To Net: NetName=VCC-3V3 Pin=U7-57
+Change Net Name : Old Net Name=NetC11_H-Bridge1_1 New Net Name=NetC13_H-Bridge1_1
+Change Net Name : Old Net Name=NetC11_H_Bridge_2_1 New Net Name=NetC13_H_Bridge_2_1
+Change Net Name : Old Net Name=NetC12_H-Bridge1_2 New Net Name=NetC14_H-Bridge1_2
+Change Net Name : Old Net Name=NetC12_H_Bridge_2_2 New Net Name=NetC14_H_Bridge_2_2
+Added Pin To Net: NetName=NetC19_H-Bridge1_2 Pin=C19_H-Bridge1-2
+Added Pin To Net: NetName=NetC19_H-Bridge1_2 Pin=R24_H-Bridge1-2
+Added Pin To Net: NetName=NetC19_H-Bridge1_2 Pin=U4_H-Bridge1-5
+Added Net: Name=NetC19_H-Bridge1_2
+Added Pin To Net: NetName=NetC19_H_Bridge_2_2 Pin=C19_H_Bridge_2-2
+Added Pin To Net: NetName=NetC19_H_Bridge_2_2 Pin=R24_H_Bridge_2-2
+Added Pin To Net: NetName=NetC19_H_Bridge_2_2 Pin=U4_H_Bridge_2-5
+Added Net: Name=NetC19_H_Bridge_2_2
+Added Pin To Net: NetName=NetC20_H-Bridge1_2 Pin=C20_H-Bridge1-2
+Added Pin To Net: NetName=NetC20_H-Bridge1_2 Pin=R25_H-Bridge1-2
+Added Pin To Net: NetName=NetC20_H-Bridge1_2 Pin=U5_H-Bridge1-5
+Added Net: Name=NetC20_H-Bridge1_2
+Added Pin To Net: NetName=NetC20_H_Bridge_2_2 Pin=C20_H_Bridge_2-2
+Added Pin To Net: NetName=NetC20_H_Bridge_2_2 Pin=R25_H_Bridge_2-2
+Added Pin To Net: NetName=NetC20_H_Bridge_2_2 Pin=U5_H_Bridge_2-5
+Added Net: Name=NetC20_H_Bridge_2_2
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=R26-1
+Added Pin To Net: NetName=NetC27_2 Pin=R27-1
+Added Pin To Net: NetName=NetC27_2 Pin=SW1-2
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R11-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=P2-4
+Added Pin To Net: NetName=NetJ1_2 Pin=P3-4
+Added Pin To Net: NetName=NetJ1_2 Pin=U3-6
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetP4_Encoder_Motor_1_2 Pin=P4_Encoder_Motor_1-2
+Added Pin To Net: NetName=NetP4_Encoder_Motor_1_2 Pin=R13_Encoder_Motor_1-2
+Added Net: Name=NetP4_Encoder_Motor_1_2
+Added Pin To Net: NetName=NetP4_Encoder_Motor_1_3 Pin=P4_Encoder_Motor_1-3
+Added Pin To Net: NetName=NetP4_Encoder_Motor_1_3 Pin=R14_Encoder_Motor_1-2
+Added Net: Name=NetP4_Encoder_Motor_1_3
+Added Pin To Net: NetName=NetP4_Encoder_Motor_2_2 Pin=P4_Encoder_Motor_2-2
+Added Pin To Net: NetName=NetP4_Encoder_Motor_2_2 Pin=R13_Encoder_Motor_2-2
+Added Net: Name=NetP4_Encoder_Motor_2_2
+Added Pin To Net: NetName=NetP4_Encoder_Motor_2_3 Pin=P4_Encoder_Motor_2-3
+Added Pin To Net: NetName=NetP4_Encoder_Motor_2_3 Pin=R14_Encoder_Motor_2-2
+Added Net: Name=NetP4_Encoder_Motor_2_3
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_1_2 Pin=P4_Encoder_Odometry_1-2
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_1_2 Pin=R13_Encoder_Odometry_1-2
+Added Net: Name=NetP4_Encoder_Odometry_1_2
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_1_3 Pin=P4_Encoder_Odometry_1-3
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_1_3 Pin=R14_Encoder_Odometry_1-2
+Added Net: Name=NetP4_Encoder_Odometry_1_3
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_2_2 Pin=P4_Encoder_Odometry_2-2
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_2_2 Pin=R13_Encoder_Odometry_2-2
+Added Net: Name=NetP4_Encoder_Odometry_2_2
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_2_3 Pin=P4_Encoder_Odometry_2-3
+Added Pin To Net: NetName=NetP4_Encoder_Odometry_2_3 Pin=R14_Encoder_Odometry_2-2
+Added Net: Name=NetP4_Encoder_Odometry_2_3
+Added Pin To Net: NetName=NetR18_H-Bridge1_1 Pin=R18_H-Bridge1-1
+Added Pin To Net: NetName=NetR18_H-Bridge1_1 Pin=U4_H-Bridge1-3
+Added Net: Name=NetR18_H-Bridge1_1
+Added Pin To Net: NetName=NetR18_H_Bridge_2_1 Pin=R18_H_Bridge_2-1
+Added Pin To Net: NetName=NetR18_H_Bridge_2_1 Pin=U4_H_Bridge_2-3
+Added Net: Name=NetR18_H_Bridge_2_1
+Change Class Name : Old Net Name=Motion_Driver_v2 New Net Name=U_PIC32MK
+Added Class: Name=Motion_Driver_v2
+Added Class: Name=U_Communication
+Added Class: Name=INA[1..2]
+Added Class: Name=INB[1..2]
+Added Class: Name=INH[1..2]
+Added Class: Name=ISA[1..2]
+Added Class: Name=ISB[1..2]
+Added Member To Class: ClassName=Oscillator Member=Component C1 20pF
+Added Member To Class: ClassName=Oscillator Member=Component C2 20pF
+Added Member To Class: ClassName=CANbus Member=Component C10 100n
+Added Member To Class: ClassName=Reset Member=Component C27 100n
+Added Member To Class: ClassName=CANbus Member=Component J1 UART
+Added Member To Class: ClassName=CANbus Member=Component P3 PICKIT
+Added Member To Class: ClassName=Encoder_Motor_1 Member=Component P4_Encoder_Motor_1 (P4) TE CONNECTIVITY_4PIN_MALE
+Added Member To Class: ClassName=Encoder_Motor_2 Member=Component P4_Encoder_Motor_2 (P4) TE CONNECTIVITY_4PIN_MALE
+Added Member To Class: ClassName=Encoder_Odometry_1 Member=Component P4_Encoder_Odometry_1 (P4) TE CONNECTIVITY_4PIN_MALE
+Added Member To Class: ClassName=Encoder_Odometry_2 Member=Component P4_Encoder_Odometry_2 (P4) TE CONNECTIVITY_4PIN_MALE
+Added Member To Class: ClassName=U_PIC32MK Member=Component P6 PICKIT
+Added Member To Class: ClassName=H-Bridge1 Member=Component R17_H-Bridge1 (R17) 1k
+Added Member To Class: ClassName=H_Bridge_2 Member=Component R17_H_Bridge_2 (R17) 1k
+Added Member To Class: ClassName=Reset Member=Component R26 10k
+Added Member To Class: ClassName=U_PIC32MK Member=Component R31 10k
+Added Member To Class: ClassName=U_PIC32MK Member=Component R32 10k
+Added Member To Class: ClassName=CANbus Member=Component U3 SN65HVD230DR
+Added Member To Class: ClassName=U_PIC32MK Member=Component U7 PIC32MK1024MCF064
+Added Room: Name=5V_PowerSupply
+Added Room: Name=Encoder_Motor_2
+Added Room: Name=H-Bridge1
+Added Room: Name=H_Bridge_2
+Added Room: Name=Motion_Driver_v2
+Added Room: Name=U_Communication
+Added Room: Name=U_PIC32MK

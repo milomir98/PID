@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 0:34:09 On 21.1.2019
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Motion_Driver_v2.SchDoc]
+   Generated File[Bill of Materials-Motion_Driver_v2.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 0:34:11 On 21.1.2019

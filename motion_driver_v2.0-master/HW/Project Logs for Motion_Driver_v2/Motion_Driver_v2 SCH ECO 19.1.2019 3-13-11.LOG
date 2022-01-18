@@ -1,0 +1,82 @@
+Remove Pin=P6-1 From Net=M\C\L\R\
+Remove Pin=P6-4 From Net=PGD
+Remove Pin=P6-5 From Net=PGC
+Remove Pin=U7-1 From Net=INH
+Remove Pin=U7-2 From Net=INA
+Remove Pin=U7-3 From Net=INB
+Remove Pin=U7-7 From Net=M\C\L\R\
+Remove Pin=U7-17 From Net=ISA
+Remove Pin=U7-18 From Net=ISB
+Remove Pin=U7-21 From Net=ISA
+Remove Pin=U7-22 From Net=ISB
+Remove Pin=U7-30 From Net=CAN_RX
+Remove Pin=U7-31 From Net=CAN_TX
+Remove Pin=U7-39 From Net=OSC1
+Remove Pin=U7-40 From Net=OSC2
+Remove Pin=U7-43 From Net=PGD
+Remove Pin=U7-44 From Net=PGC
+Remove Pin=U7-50 From Net=UART_TX
+Remove Pin=U7-51 From Net=UART_RX
+Remove Pin=U7-53 From Net=EXTINT4
+Remove Pin=U7-54 From Net=EXTINT3
+Remove Pin=U7-55 From Net=EXTINT1
+Remove Pin=U7-58 From Net=EXTINT2
+Remove Pin=U7-62 From Net=INA
+Remove Pin=U7-63 From Net=INB
+Remove Pin=U7-64 From Net=INH
+Change Component Footprint: Designator=C21 Old Footprint=CAP10X20_RADIAL New Footprint=CER_0805
+Change Component Footprint: Designator=C21 Old Footprint=CAP10X20_RADIAL New Footprint=CER_0805
+Change Component Footprint: Designator=C22 Old Footprint=CAP10X20_RADIAL New Footprint=CER_0805
+Change Component Footprint: Designator=C22 Old Footprint=CAP10X20_RADIAL New Footprint=CER_0805
+Change Component Footprint: Designator=C19 Old Footprint=CER_0805 New Footprint=CAP10X20_RADIAL
+Change Component Footprint: Designator=C19 Old Footprint=CER_0805 New Footprint=CAP10X20_RADIAL
+Change Component Footprint: Designator=C20 Old Footprint=CER_0805 New Footprint=CAP10X20_RADIAL
+Change Component Footprint: Designator=C20 Old Footprint=CER_0805 New Footprint=CAP10X20_RADIAL
+Change Component Footprint: Designator=J1 Old Footprint=HM1x2 New Footprint=HM1X4
+Change Component Footprint: Designator=J2 Old Footprint=HM1X4 New Footprint=HM1x2
+Change Component Footprint: Designator=P3 Old Footprint=RJ11-6N-B New Footprint=TE CONNECTIVITY_5PIN_MALE
+Change Component Comment: Designator=P3 Old Comment==Type New Comment=PICKIT
+Change Component Comment: Designator=P5 Old Comment=="Manufacturer Part Number" New Comment=*
+Change Component Comment: Designator=P5 Old Comment=* New Comment=*
+Change Component Comment: Designator=J1 Old Comment=="Manufacturer Part Number" New Comment=UART
+Change Component Comment: Designator=R22 Old Comment==Resistance New Comment=10k
+Change Component Comment: Designator=R22 Old Comment=10k New Comment=10k
+Change Component Comment: Designator=C17 Old Comment==Capacitance New Comment=100nF
+Change Component Comment: Designator=C17 Old Comment=100nF New Comment=100nF
+Change Component Comment: Designator=C18 Old Comment==Capacitance New Comment=100nF
+Change Component Comment: Designator=C18 Old Comment=100nF New Comment=100nF
+Change Component Comment: Designator=R18 Old Comment==Resistance New Comment=1k
+Change Component Comment: Designator=R18 Old Comment=1k New Comment=1k
+Change Component Comment: Designator=C19 Old Comment==Capacitance New Comment=470uF
+Change Component Comment: Designator=C19 Old Comment=470uF New Comment=470uF
+Change Component Comment: Designator=C20 Old Comment==Capacitance New Comment=470uF
+Change Component Comment: Designator=C20 Old Comment=470uF New Comment=470uF
+Change Component Comment: Designator=C15 Old Comment==Capacitance New Comment=1nF
+Change Component Comment: Designator=C15 Old Comment=1nF New Comment=1nF
+Change Component Comment: Designator=C16 Old Comment==Capacitance New Comment=1nF
+Change Component Comment: Designator=C16 Old Comment=1nF New Comment=1nF
+Change Component Comment: Designator=R24 Old Comment==Resistance New Comment=1k
+Change Component Comment: Designator=R24 Old Comment=1k New Comment=1k
+Change Component Comment: Designator=C21 Old Comment==Capacitance New Comment=100nF
+Change Component Comment: Designator=C21 Old Comment=100nF New Comment=100nF
+Change Component Comment: Designator=C22 Old Comment==Capacitance New Comment=100nF
+Change Component Comment: Designator=C22 Old Comment=100nF New Comment=100nF
+Change Component Comment: Designator=U2 Old Comment=="Manufacturer Part Number" New Comment=SN65HVD230DR
+Change Component Comment: Designator=J2 Old Comment=UART New Comment=*
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C25 NewDesignator=C9
+Change Component Designator: OldDesignator=C26 NewDesignator=C10
+Change Component Designator: OldDesignator=R28 NewDesignator=R13
+Change Component Designator: OldDesignator=U6 NewDesignator=U3
+Add Pin To Net: Pin=P3-1 Old Net=NetP3_1 New Net=M\C\L\R\
+Change Pin Designator/Name:  Old Designator=P3-5 Old Name=5 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=U2-4 Old Name=GND1 New Designator =VOA New Name=2
+Change Pin Designator/Name:  Old Designator=U2-6 Old Name=VOB New Designator =VDD1 New Name=1
+Change Pin Designator/Name:  Old Designator=U2-7 Old Name=VIA New Designator =GND1 New Name=4
+Change Pin Designator/Name:  Old Designator=U2-8 Old Name=VDD2 New Designator =VIB New Name=3

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+  <Configurator>
+    <Name dnOrder="0" value="default"/>
+    <Processor dnOrder="1" value="PIC32MK1024MCF064"/>
+    <Harmony dnOrder="2" path="D:\MPLAB\Harmony"/>
+    <Folder_Name dnOrder="3" value=""/>
+    <Manifest dnOrder="4">
+      <Files dnOrder="0">
+        <File dnOrder="0">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">exceptions.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/</LogicalPath>
+          <PhysicalPath dnOrder="4">/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">3477C6F788508451FADB8F17D7E78273</GeneratedChecksum>
+          <UserChecksum dnOrder="6">3477C6F788508451FADB8F17D7E78273</UserChecksum>
+        </File>
+        <File dnOrder="1">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">initialization.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/</LogicalPath>
+          <PhysicalPath dnOrder="4">/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">6EEB569D122B5D274A5993710E950115</GeneratedChecksum>
+          <UserChecksum dnOrder="6">6EEB569D122B5D274A5993710E950115</UserChecksum>
+        </File>
+        <File dnOrder="2">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">interrupts.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/</LogicalPath>
+          <PhysicalPath dnOrder="4">/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">52571F34418EAD4BC92E0BEBF41A326D</GeneratedChecksum>
+          <UserChecksum dnOrder="6">4AB7274D70617AA4765781F35203780A</UserChecksum>
+        </File>
+        <File dnOrder="3">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">main.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3"/>
+          <PhysicalPath dnOrder="4">/../../</PhysicalPath>
+          <GeneratedChecksum dnOrder="5"/>
+          <UserChecksum dnOrder="6"/>
+        </File>
+        <File dnOrder="4">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_adchs.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/adchs/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/adchs/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">93A5C18E29B1A906A878C2E5BEADC0AF</GeneratedChecksum>
+          <UserChecksum dnOrder="6">93A5C18E29B1A906A878C2E5BEADC0AF</UserChecksum>
+        </File>
+        <File dnOrder="5">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_clk.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/clk/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/clk/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">28D316C93CB359A0C226A000245BC442</GeneratedChecksum>
+          <UserChecksum dnOrder="6">28D316C93CB359A0C226A000245BC442</UserChecksum>
+        </File>
+        <File dnOrder="6">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_evic.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/evic/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/evic/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">82C0AAA7B55DF3D5A54982FBA5F4FF8C</GeneratedChecksum>
+          <UserChecksum dnOrder="6">82C0AAA7B55DF3D5A54982FBA5F4FF8C</UserChecksum>
+        </File>
+        <File dnOrder="7">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_gpio.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/gpio/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/gpio/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">540B3C51092A337ACF8BC538A1E68AF3</GeneratedChecksum>
+          <UserChecksum dnOrder="6">540B3C51092A337ACF8BC538A1E68AF3</UserChecksum>
+        </File>
+        <File dnOrder="8">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_mcpwm.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/mcpwm/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/mcpwm/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">0674D6437F57E510D4C4C8A5CBE9A925</GeneratedChecksum>
+          <UserChecksum dnOrder="6">0674D6437F57E510D4C4C8A5CBE9A925</UserChecksum>
+        </File>
+        <File dnOrder="9">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_qei1.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/qei/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/qei/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">CFFAADAC2747A6CC67DAD048B6496E9E</GeneratedChecksum>
+          <UserChecksum dnOrder="6">CFFAADAC2747A6CC67DAD048B6496E9E</UserChecksum>
+        </File>
+        <File dnOrder="10">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_qei3.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/qei/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/qei/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">BA74808CCE1BE99655492DB7154E0258</GeneratedChecksum>
+          <UserChecksum dnOrder="6">BA74808CCE1BE99655492DB7154E0258</UserChecksum>
+        </File>
+        <File dnOrder="11">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_tmr2.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/tmr/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/tmr/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">9DE770765D98E40A8BEC0B5BE3BDC5F6</GeneratedChecksum>
+          <UserChecksum dnOrder="6">9DE770765D98E40A8BEC0B5BE3BDC5F6</UserChecksum>
+        </File>
+        <File dnOrder="12">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">plib_uart3.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/uart/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/uart/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">BE5AF24E304D6B3DF6CDEE732F93B8A8</GeneratedChecksum>
+          <UserChecksum dnOrder="6">BE5AF24E304D6B3DF6CDEE732F93B8A8</UserChecksum>
+        </File>
+        <File dnOrder="13">
+          <Type dnOrder="0">SOURCE</Type>
+          <Name dnOrder="1">xc32_monitor.c</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/stdio/</LogicalPath>
+          <PhysicalPath dnOrder="4">/stdio/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">A9F55E7CB78F22D9000CA03DC635973C</GeneratedChecksum>
+          <UserChecksum dnOrder="6">A9F55E7CB78F22D9000CA03DC635973C</UserChecksum>
+        </File>
+        <File dnOrder="14">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">definitions.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/</LogicalPath>
+          <PhysicalPath dnOrder="4">/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">98FCD8BBEC106A3FABB1BAE9C9F4E4F4</GeneratedChecksum>
+          <UserChecksum dnOrder="6">98FCD8BBEC106A3FABB1BAE9C9F4E4F4</UserChecksum>
+        </File>
+        <File dnOrder="15">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">device.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">packs/PIC32MK1024MCF064_DFP/</LogicalPath>
+          <PhysicalPath dnOrder="4">/../../packs/PIC32MK1024MCF064_DFP/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">5D5C52527AB1435153DB9B50ADE6B79D</GeneratedChecksum>
+          <UserChecksum dnOrder="6">5D5C52527AB1435153DB9B50ADE6B79D</UserChecksum>
+        </File>
+        <File dnOrder="16">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_adchs.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/adchs/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/adchs/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">434BEDD362BD8C505C465F045608333E</GeneratedChecksum>
+          <UserChecksum dnOrder="6">434BEDD362BD8C505C465F045608333E</UserChecksum>
+        </File>
+        <File dnOrder="17">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_adchs_common.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/adchs/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/adchs/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">D118735A3171AC182AEA00BBC367DA83</GeneratedChecksum>
+          <UserChecksum dnOrder="6">D118735A3171AC182AEA00BBC367DA83</UserChecksum>
+        </File>
+        <File dnOrder="18">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_clk.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/clk/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/clk/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">7066CC390335CF75126E2A50C46E3BDD</GeneratedChecksum>
+          <UserChecksum dnOrder="6">7066CC390335CF75126E2A50C46E3BDD</UserChecksum>
+        </File>
+        <File dnOrder="19">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_evic.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/evic/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/evic/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">70E9A938E3E7F3E5AF30FC751388E937</GeneratedChecksum>
+          <UserChecksum dnOrder="6">70E9A938E3E7F3E5AF30FC751388E937</UserChecksum>
+        </File>
+        <File dnOrder="20">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_gpio.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/gpio/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/gpio/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">D097E2593D7DDB7A911F1F3625412500</GeneratedChecksum>
+          <UserChecksum dnOrder="6">D097E2593D7DDB7A911F1F3625412500</UserChecksum>
+        </File>
+        <File dnOrder="21">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_mcpwm.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/mcpwm/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/mcpwm/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">27E3133B231E478BA73BA33157C30342</GeneratedChecksum>
+          <UserChecksum dnOrder="6">27E3133B231E478BA73BA33157C30342</UserChecksum>
+        </File>
+        <File dnOrder="22">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_mcpwm_common.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/mcpwm/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/mcpwm/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">8C0682DB8DD38F7C09771C63347D06FF</GeneratedChecksum>
+          <UserChecksum dnOrder="6">8C0682DB8DD38F7C09771C63347D06FF</UserChecksum>
+        </File>
+        <File dnOrder="23">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_qei1.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/qei/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/qei/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">3A5142AE8EA755CC7049FB94CCB4D0FC</GeneratedChecksum>
+          <UserChecksum dnOrder="6">3A5142AE8EA755CC7049FB94CCB4D0FC</UserChecksum>
+        </File>
+        <File dnOrder="24">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_qei3.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/qei/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/qei/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">E31AD6B32FCBA01CCA4C4704D720CA9A</GeneratedChecksum>
+          <UserChecksum dnOrder="6">E31AD6B32FCBA01CCA4C4704D720CA9A</UserChecksum>
+        </File>
+        <File dnOrder="25">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_qei_common.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/qei/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/qei/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">D6A76BFCD1B06AC07959D1D4CB4D2B3E</GeneratedChecksum>
+          <UserChecksum dnOrder="6">D6A76BFCD1B06AC07959D1D4CB4D2B3E</UserChecksum>
+        </File>
+        <File dnOrder="26">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_tmr2.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/tmr/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/tmr/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">612994C7F3C27F2CFA2621C1F65D4068</GeneratedChecksum>
+          <UserChecksum dnOrder="6">612994C7F3C27F2CFA2621C1F65D4068</UserChecksum>
+        </File>
+        <File dnOrder="27">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_tmr_common.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/tmr/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/tmr/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">D948F2CE092CAB556EF299D3CCD83A55</GeneratedChecksum>
+          <UserChecksum dnOrder="6">D948F2CE092CAB556EF299D3CCD83A55</UserChecksum>
+        </File>
+        <File dnOrder="28">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_uart3.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/uart/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/uart/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">C42696A91C321D6F57233332B6B49666</GeneratedChecksum>
+          <UserChecksum dnOrder="6">C42696A91C321D6F57233332B6B49666</UserChecksum>
+        </File>
+        <File dnOrder="29">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">plib_uart_common.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/peripheral/uart/</LogicalPath>
+          <PhysicalPath dnOrder="4">/peripheral/uart/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">CB4B34D1ABCE74BF62A89A7FF936BE91</GeneratedChecksum>
+          <UserChecksum dnOrder="6">CB4B34D1ABCE74BF62A89A7FF936BE91</UserChecksum>
+        </File>
+        <File dnOrder="30">
+          <Type dnOrder="0">HEADER</Type>
+          <Name dnOrder="1">toolchain_specifics.h</Name>
+          <Security dnOrder="2">NON_SECURE</Security>
+          <LogicalPath dnOrder="3">config/default/</LogicalPath>
+          <PhysicalPath dnOrder="4">/</PhysicalPath>
+          <GeneratedChecksum dnOrder="5">9A7344615980CB9443B6436E41E2155A</GeneratedChecksum>
+          <UserChecksum dnOrder="6">9A7344615980CB9443B6436E41E2155A</UserChecksum>
+        </File>
+      </Files>
+      <Settings dnOrder="1">
+        <Setting append="true" category="C32" delimiter=";" dnOrder="0" key="extra-include-directories" security="NON_SECURE" value="../src;../src/config/default;../src/packs/PIC32MK1024MCF064_DFP;"/>
+        <Setting category="C32-LD" dnOrder="1" key="heap-size" security="NON_SECURE" value="512"/>
+        <Setting category="C32-LD" dnOrder="2" key="no-device-startup-code" security="NON_SECURE" value="true"/>
+        <Setting append="true" category="C32-LD" delimiter=";" dnOrder="3" key="preprocessor-macros" security="NON_SECURE" value=""/>
+      </Settings>
+    </Manifest>
+    <Settings dnOrder="5">
+      <Setting dnOrder="0" key="CMSISPath" value=".\dev_packs\arm\CMSIS\5.6.0"/>
+      <Setting dnOrder="1" key="DFPPath" value=".\dev_packs\Microchip\PIC32MK-MC_DFP\1.4.94\atdf\PIC32MK1024MCF064.atdf"/>
+      <Setting dnOrder="2" key="FORCE_OPTIMIZATION" value="false"/>
+      <Setting dnOrder="3" key="GENERATE_BACKUP" value="true"/>
+      <Setting dnOrder="4" key="MERGE_STRATEGY" value="USER_ALL"/>
+      <Setting dnOrder="5" key="PackageFilter" value="aerospace;aws_cloud;bootloader;bsp;bt;core;crypto;cryptoauthlib;cryptoauthlib_apps;csp;expresslogic_threadx;micrium_ucos3;quick_docs;reference_apps;touch;usb;wireless;x2c;"/>
+      <Setting dnOrder="6" key="TRUSTZONE" value="false"/>
+    </Settings>
+  </Configurator>
+</Configuration>

@@ -1,0 +1,4 @@
+Remove Pin=P4-1 From Net=M\C\L\R\
+Remove Pin=P4-4 From Net=PGD
+Remove Pin=P4-5 From Net=PGC
+Change Component Comment: Designator=J2 Old Comment=="Manufacturer Part Number" New Comment=*
