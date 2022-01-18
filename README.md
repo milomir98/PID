@@ -53,4 +53,4 @@ pip3 install pyserial
 
 ## Pokreni motor. - Turns motor ON.
 ## Zaustavi motor. - Turns motor OFF.
-## Brzina __. - Set the velocity of the motor.
+## Brzina __. - Sets the velocity of the motor.
