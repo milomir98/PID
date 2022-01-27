@@ -48,3 +48,9 @@ If you are getting error that module serial doesnt exist use pip3 for installati
 ```bash
 pip3 install pyserial
 ```
+
+# GSM commands
+
+## Pokreni motor. - Turns motor ON.
+## Zaustavi motor. - Turns motor OFF.
+## Brzina __. - Sets the velocity of the motor.
