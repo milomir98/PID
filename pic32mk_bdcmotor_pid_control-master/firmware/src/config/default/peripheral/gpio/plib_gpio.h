@@ -62,6 +62,15 @@
 // *****************************************************************************
 
 
+/*** Macros for GPIO_RA11 pin ***/
+#define GPIO_RA11_Set()               (LATASET = (1<<11))
+#define GPIO_RA11_Clear()             (LATACLR = (1<<11))
+#define GPIO_RA11_Toggle()            (LATAINV= (1<<11))
+#define GPIO_RA11_OutputEnable()      (TRISACLR = (1<<11))
+#define GPIO_RA11_InputEnable()       (TRISASET = (1<<11))
+#define GPIO_RA11_Get()               ((PORTA >> 11) & 0x1)
+#define GPIO_RA11_PIN                  GPIO_PIN_RA11
+
 /*** Macros for GPIO_RF0 pin ***/
 #define GPIO_RF0_Set()               (LATFSET = (1<<0))
 #define GPIO_RF0_Clear()             (LATFCLR = (1<<0))

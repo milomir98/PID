@@ -54,6 +54,8 @@ int main ( void )
     
     
     bool state = false;
+    
+    bool gsmOn = false;
         
     MOT_DIR direction;
     
@@ -69,13 +71,23 @@ int main ( void )
     
     stop_motor();
     
+    if(PORTAbits.RA11 == 1)
+        gsmOn = true;
+    
+    if(gsmOn) {
+        gsmModemInit();
+    
+        gsmInit_noResp();
+        gsmInit();
+    }
+    
     int i = 0, flag = 0;
     int ctrl = 0;
     
     while ( true )
     {
         //uint8_t flag = 0;
-        if(UART2_ReceiverIsReady())
+        if(UART2_ReceiverIsReady() && gsmOn)
         {
             tmp = UART2_ReadByte();
             str_tmp[i] = tmp;

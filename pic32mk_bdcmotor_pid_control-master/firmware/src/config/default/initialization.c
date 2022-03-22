@@ -201,10 +201,10 @@ void SYS_Initialize ( void* data )
     MCPWM_Initialize();
 
     
-    gsmModemInit();
+    //gsmModemInit();
     
-    gsmInit_noResp();
-    gsmInit();
+    //gsmInit_noResp();
+    //gsmInit();
 
 
     EVIC_Initialize();
